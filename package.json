@@ -1,0 +1,13 @@
+{
+  "name": "elm-reify-landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maxim Filimonov <tpaktopsp@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "api": "elm-graphql <URL> --base CMS"
+  },
+  "devDependencies": {
+    "@dillonkearns/elm-graphql": "^3.0.1"
+  }
+}
